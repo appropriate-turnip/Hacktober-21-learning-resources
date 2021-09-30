@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center">Learning Resources</h1>
+<h1 style="text-align: center">Learning Resources | Hacktober Fest'21</h1>
 <img style="text-align: center" src="./assets/header1.svg" alt="header image">
 <hr/>
 
