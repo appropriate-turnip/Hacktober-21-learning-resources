@@ -1,8 +1,14 @@
+
 <h1 style="text-align: center">Learning Resources</h1>
-<img style="text-align: center" src="./assets/headerimg.jpg" alt="header image">
+<img style="text-align: center" src="./assets/header1.svg" alt="header image">
 <hr/>
 
 This repository contains all the learning resources you might need.
+
+This collection provides a list of educational resources for Software Engineers. 
+
+**Feel free to add your favorite resources as well and help others in their journey of learning.**
+
 
 ## Competitive Programming Resources
 
