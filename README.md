@@ -25,3 +25,4 @@ This collection provides a list of educational resources for Software Engineers.
 11. [Coderwars](http://coderwars.com)
 12. [SPOJ](https://www.spoj.com/)
 13. [Coding Game](https://www.codingame.com/start)
+14. [Edabit](https://edabit.com/challenges)
